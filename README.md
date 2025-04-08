@@ -1,6 +1,6 @@
 # A Fair Generative Model Using LeCam divergence (AAAI 2023 Oral)
 
-Soobin Um and Changho Suh
+[Soobin Um](https://soobin-um.github.io/) and [Changho Suh](http://csuh.kaist.ac.kr/index.html)
 
 This repository contains the official code for the paper "A Fair Generative Model Using LeCam divergence" (AAAI 2023 Oral).
 
